@@ -5,3 +5,7 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+react-router-app-flow.md
+react-router.sublime-project
+react-router.sublime-workspace
